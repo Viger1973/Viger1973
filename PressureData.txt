@@ -1,5 +1,5 @@
-14 gennaio 2026 ore 22:00		145/101	71 pulsazioni
-15 gennaio 2026 ore 09:00		137/87    70 pulsazioni
+14 gennaio 2026 ore 22:00		      145/101	  71 pulsazioni
+15 gennaio 2026 ore 09:00	       	137/87    70 pulsazioni
 15 gennaio 2026 ore 12:30         144/91    66 pulsazioni
 15 gennaio 2026 ore 17:30          144/90   78 pulsazioni
 15 gennaio 2026 ore 20:30          135/93   77 pulsazioni
