@@ -49,4 +49,5 @@
 21 gennaio 2026 ore 19:00         123/70   74 pulsazioni
 21 gennaio 2026 ore 20:00         108/77   78 pulsazioni
 21 gennaio 2026 ore 21:00         121/82   85 pulsazioni
+21 gennaio 2026 ore 22:30         117/80   70 pulsazioni
 
